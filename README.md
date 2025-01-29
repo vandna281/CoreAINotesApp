@@ -68,3 +68,15 @@ Integration with Hugging Face for:
 
   * DELETE /api/notes/:id: Delete a note.
 
+## How to Run Tests:
+
+ 1. Navigate to the backend app folder:
+
+    _cd backend_repo_name_
+
+2. Run the tests:
+
+    _npm test_
+
+
+
