@@ -1,6 +1,6 @@
 const axios = require('axios');
 
-const HUGGINGFACE_API_KEY = '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';
+const HUGGINGFACE_API_KEY = 'dummy_api_key';
 
 async function performSummarization(text) {
   try {
