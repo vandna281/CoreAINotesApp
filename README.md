@@ -48,7 +48,7 @@ Integration with Hugging Face for:
 
   4. Start the Backend:
 
-    npm start
+    nodemon server.js
 
 **The backend will be running at http://localhost:5000.**
 
